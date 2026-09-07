@@ -103,7 +103,8 @@ function renderHourlyPills(times, temps, codes) {
     }
 }
 
-function renderChart(labels, dataPoints) {
+function renderChart(labels, dataPoints)
+ {
     const ctx = document.getElementById('tempChart').getContext('2d');
     if (tempChartInstance) tempChartInstance.destroy();
 
