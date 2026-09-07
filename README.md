@@ -13,6 +13,7 @@ Check out the live deployed application on Netlify:
 
 ## ✨ Features
 
+
 - **🌐 Live REST API Integration:** Fetches accurate, real-time meteorological metrics via Open-Meteo REST API.
 - **🔍 City Search & Geocoding:** Search weather conditions for any global city instantly using Open-Meteo Geocoding API.
 - **📈 24-Hour Temperature Chart:** Interactive temperature trend line chart powered by **Chart.js**.
